@@ -1,0 +1,35 @@
+/* general */
+
+body{
+	background-image: url('../img/bg.jpg');
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+	background-color: white;
+	text-align: center;
+	min-height: 100%;
+	overflow:auto;
+}
+.opacityContainer{
+	opacity: 0.9;
+}
+.testMenu{
+	background-color: #67737e;
+}
+
+/* page home */
+.positionTitre{
+	margin: 50px 0px;
+	
+}
+
+
+/* login page */
+.formArea{
+	width: 50%;
+    position: relative;
+    left: 50%;
+    margin-left: -25%;
+    top: 50px;
+}
